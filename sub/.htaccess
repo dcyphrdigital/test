@@ -1,0 +1,4 @@
+AuthName "Please Login"
+AuthType Basic
+AuthUserFile /home/master/applications/hkrnpmrkey/public_html/.htpasswd
+require user kp
